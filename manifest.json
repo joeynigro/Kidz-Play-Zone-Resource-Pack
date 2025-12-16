@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "https://www.kidzplayzone.org/",
+    "name": "Kidz-Play-Zone-Resource-Pack-main",
+    "platform_locked": false,
+    "uuid": "33617d58-3825-4ad8-93a0-a6deafd9b266",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "https://www.kidzplayzone.org/",
+      "type": "resources",
+      "uuid": "1dacb4fd-94f3-454f-b3a8-92676b75d7ad",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
