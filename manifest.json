@@ -3,7 +3,7 @@
   "header": {
     "description": "https://www.kidzplayzone.org/",
     "name": "Kidz Play Zone",
-    "min_engine_version": [ 1, 21, 130 ]
+    "min_engine_version": [ 1, 21, 130 ],
     "uuid": "33617d58-3825-4ad8-93a0-a6deafd9b266",
     "version": [
       0,
